@@ -1,0 +1,1 @@
+<theory name="real.RealInfix" realize="true"><realized><require name="why3.BuiltIn.BuiltIn"/><require name="real.Real"/></realized><typedecl name="unit" altname="unit" path="why3.Unit.Unit"><params/><prodt/></typedecl></theory>
